@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/azukuni/projects/advancePwd/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/advancepwd.dir/main.cpp.o -c /home/azukuni/projects/advancePwd/main.cpp",
+  "file": "/home/azukuni/projects/advancePwd/main.cpp",
+  "output": "CMakeFiles/advancepwd.dir/main.cpp.o"
+}
+]
